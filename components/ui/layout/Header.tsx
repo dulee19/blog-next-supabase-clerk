@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header className="border-b">
       <div className="py-2 container mx-auto flex items-center justify-between">
-        <Link href="/" className="text-xl font-bold">Next.js Blog</Link>
+        <Link href="/" className="text-xl font-bold">Next.js Blog </Link>
 
         <div className="flex items-center space-x-4">
           <SignedIn>
